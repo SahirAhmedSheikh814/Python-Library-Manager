@@ -83,7 +83,7 @@ Percentage read: 50.0%
 - **Loading the Library**: When you restart the program, it loads the books from `library.txt`.
 
 ```bash
-Library saved to file. Goodbye!
+Goodbye!
 ```
 
 ## 🎯 Submission
